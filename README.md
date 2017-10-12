@@ -28,12 +28,26 @@ The first step in linear regression is to calculate the following 5 values.
 * Sum of X^2.
 * Sum of Y^2.
 
-Once we've have these values we can use this equation to calculate `a` which is the Y-intercept.
+We can calculate `a`, which is the Y-intercept, using this equation.
 
 ![](https://github.com/barend-erasmus/linear-regression/raw/master/images/a-equation.png)
 
-Next we'll calculate `b`, which is the slope, using this equation.
+In this example `a` will be `65.142`.
+
+We can calculate `b`, which is the slope, using this equation.
 
 ![](https://github.com/barend-erasmus/linear-regression/raw/master/images/b-equation.png)
+
+In this example `b` will be `0.3852.
+
+Thus the Glucose Level of a 30 year old would be:
+
+```
+y = a + bx
+
+y = 65.142 + (0.3852)(30)
+
+y = 76.698
+```
 
 ![](https://github.com/barend-erasmus/linear-regression/raw/master/images/chart.png)
