@@ -24,4 +24,4 @@ In linear regression, the relationships are modeled using linear predictor funct
 
 ![](https://github.com/barend-erasmus/linear-regression/raw/master/images/b-equation.png)
 
-![](https://github.com/barend-erasmus/linear-regression/raw/master/images/a-equation.png)
+![](https://github.com/barend-erasmus/linear-regression/raw/master/images/chart.png)
