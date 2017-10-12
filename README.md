@@ -38,7 +38,7 @@ We can calculate `b`, which is the slope, using this equation.
 
 ![](https://github.com/barend-erasmus/linear-regression/raw/master/images/b-equation.png)
 
-In this example `b` will be `0.3852.
+In this example `b` will be `0.3852`.
 
 Thus the Glucose Level of a 30 year old would be:
 
