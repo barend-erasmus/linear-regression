@@ -40,7 +40,7 @@ We can calculate `b`, which is the slope, using this equation.
 
 In this example `b` will be `0.3852`.
 
-Thus the Glucose Level of a 30 year old would be:
+Thus the Glucose Level of a 30-year-old would be:
 
 ```
 y = a + bx
